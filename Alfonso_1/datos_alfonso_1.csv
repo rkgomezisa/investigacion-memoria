@@ -1,0 +1,65 @@
+Sujeto,Sexo_Sujeto,Grupo_Experimental,Formato_Presentacion,Lugar_Evaluacion,Semana,Sexo_Entrevistador,Evocacion_Libre_Dia_1,Evocacion_Libre_Dia_2,Objetos_Recordados_L1,Objetos_Recordados_L2,Bien_Reconocidos_Nuevos,Intrusiones_L1_en_L2,Intrusiones_L2_en_L1,Intrusiones_Totales,Falsos_Positivos,Falsos_Positivos_L1,Falsos_Positivos_L2,Falsos_Negativos,Falsos_Negativos_L1,Falsos_Negativos_L2
+ISVC657,Femenino,Control L1,Seriado,Profes,2,Masculino,14,0,18,0,20,0,0,0,0,0,0,2,2,0
+FDV386,Masculino,Control L1,Seriado,Profes,2,Masculino,13,0,18,0,20,0,0,0,0,0,0,2,2,0
+AZ742,Femenino,Control L1,Unisono,Profes,2,Masculino,15,0,17,0,20,0,0,0,0,0,0,3,3,0
+LV927,Masculino,Control L1,Unisono,Profes,2,Femenino,13,0,20,0,20,0,0,0,0,0,0,0,0,0
+AB213,Femenino,Control L1,Seriado,IIPSI,2,Femenino,10,0,18,0,19,0,0,0,1,1,0,2,2,0
+NGC366,Masculino,Control L1,Seriado,IIPSI,2,Masculino,11,0,19,0,18,0,0,0,2,2,0,1,1,0
+DSTH259,Femenino,Control L1,Unisono,IIPSI,2,Masculino,13,0,19,0,20,0,0,0,0,0,0,1,1,0
+NB798,Masculino,Control L1,Unisono,IIPSI,2,Masculino,12,0,17,0,19,0,0,0,1,1,0,3,3,0
+DMD201,Femenino,Control L2,Seriado,Profes,2,Femenino,15,0,0,19,19,0,0,0,1,0,1,1,0,1
+FF283,Masculino,Control L2,Seriado,Profes,2,Masculino,11,0,0,17,20,0,0,0,0,0,0,3,0,3
+MDM954,Masculino,Control L2,Unisono,Profes,2,Femenino,18,0,0,17,20,0,0,0,0,0,0,3,0,3
+LB719,Femenino,Control L2,Unisono,Profes,2,Femenino,14,0,0,18,19,0,0,0,1,0,1,2,0,2
+CMN843,Femenino,Control L2,Seriado,IIPSI,2,Femenino,14,0,0,19,20,0,0,0,0,0,0,1,0,1
+LATA103,Masculino,Control L2,Seriado,IIPSI,2,Masculino,12,0,0,17,20,0,0,0,0,0,0,3,0,3
+AMM458,Femenino,Control L2,Unisono,IIPSI,2,Masculino,14,0,0,19,20,0,0,0,0,0,0,1,0,1
+EP168,Masculino,Control L2,Unisono,IIPSI,2,Femenino,15,0,0,16,18,0,0,0,2,0,2,4,0,4
+CM823,Femenino,Repite contexto,Seriado,Profes,2,Masculino,11,13,15,17,15,2,2,4,5,5,0,4,3,1
+FR480,Masculino,Repite contexto,Seriado,Profes,2,Femenino,13,12,18,19,17,0,2,2,3,0,3,1,0,1
+CBCM844,Femenino,Repite contexto,Unisono,Profes,2,Femenino,12,8,15,12,19,8,2,10,1,0,1,3,3,0
+SS841,Masculino,Repite contexto,Unisono,Profes,2,Masculino,14,17,9,13,19,4,2,6,1,1,0,12,9,3
+ALL215,Femenino,Repite contexto,Seriado,IIPSI,2,Masculino,10,15,14,18,19,1,2,3,1,1,0,5,4,1
+FS772,Masculino,Repite contexto,Seriado,IIPSI,2,Femenino,10,15,14,11,17,6,1,7,3,2,1,8,5,3
+CF469,Femenino,Repite contexto,Unisono,IIPSI,2,Masculino,16,10,14,17,17,1,3,4,3,0,3,5,3,2
+JLLR892,Masculino,Repite contexto,Unisono,IIPSI,2,Masculino,16,14,13,15,18,1,6,7,2,0,2,5,1,4
+CG149,Femenino,No repite contexto ,Seriado,Profes,2,Masculino,11,12,16,14,20,3,0,3,0,0,0,7,4,3
+MV770,Masculino,No repite contexto ,Seriado,Profes,2,Masculino,18,12,15,16,20,1,2,3,0,0,0,6,3,3
+AN217,Femenino,No repite contexto ,Unisono,Profes,2,Femenino,18,11,16,18,18,1,4,5,2,0,2,1,0,1
+GR772,Masculino,No repite contexto ,Unisono,Profes,2,Femenino,16,9,16,16,15,2,1,3,5,0,5,5,3,2
+MCGC818,Femenino,No repite contexto ,Seriado,IIPSI,2,Femenino,13,12,19,18,20,2,1,3,0,0,0,0,0,0
+MR369,Masculino,No repite contexto ,Seriado,IIPSI,2,Femenino,12,15,14,15,12,3,3,6,8,5,3,5,3,2
+AT486,Femenino,No repite contexto ,Unisono,IIPSI,2,Masculino,13,12,17,17,18,2,1,3,2,1,1,3,2,1
+TGC752,Masculino,No repite contexto ,Unisono,IIPSI,2,Femenino,13,13,13,17,19,1,1,2,1,1,0,8,6,2
+IN044,Masculino,Control L1,Seriado,IIPSI,1,Masculino,15,0,18,0,19,0,0,0,1,1,0,2,2,0
+JC687,Masculino,Control L1,Unisono,IIPSI,1,Masculino,15,0,13,0,19,0,0,0,1,1,0,7,7,0
+LS541,Masculino,Control L1,Seriado,Profes,1,Masculino,11,0,15,0,20,0,0,0,0,0,0,5,5,0
+GRS922,Masculino,Control L1,Unisono,Profes,1,Masculino,19,0,14,0,20,0,0,0,0,0,0,6,6,0
+JP124,Femenino,Control L1,Seriado,IIPSI,1,Femenino,14,0,18,0,20,0,0,0,0,0,0,2,2,0
+JC750,Femenino,Control L1,Unisono,IIPSI,1,Femenino,15,0,18,0,20,0,0,0,0,0,0,2,2,0
+AL115,Femenino,Control L1,Seriado,Profes,1,Femenino,10,0,15,0,20,0,0,0,0,0,0,5,5,0
+TR815,Femenino,Control L1,Unisono,Profes,1,Masculino,15,0,16,0,20,0,0,0,0,0,0,4,4,0
+LS916,Masculino,Control L2,Seriado,Profes,1,Femenino,13,0,0,20,18,0,0,0,2,0,2,0,0,0
+AAZ978,Masculino,Control L2,Unisono,Profes,1,Femenino,10,0,0,18,20,0,0,0,0,0,0,2,0,2
+VCP231,Masculino,Control L2,Seriado,IIPSI,1,Masculino,0,10,0,19,19,0,0,0,1,,1,1,0,1
+NEM223,Masculino,Control L2,Unisono,IIPSI,1,Masculino,0,16,0,18,14,0,0,0,6,0,6,2,0,2
+CC492,Femenino,Control L2,Seriado,Profes,1,Masculino,14,0,0,18,20,0,0,0,0,0,0,2,0,2
+AG897,Femenino,Control L2,Unisono,Profes,1,Femenino,15,0,0,20,20,0,0,0,0,0,0,0,0,0
+MILC977,Femenino,Control L2,Seriado,IIPSI,1,Masculino,15,0,0,20,20,0,0,0,0,0,0,0,0,0
+MA465,Femenino,Control L2,Unisono,IIPSI,1,Femenino,14,0,0,17,16,0,0,0,4,0,4,3,0,3
+IS610,Masculino,Repite contexto,Seriado,IIPSI,1,Femenino,9,16,18,14,19,5,1,6,1,1,0,3,1,2
+SJA678,Masculino,Repite contexto,Unisono,IIPSI,1,Femenino,13,9,14,11,19,8,2,10,1,0,1,5,4,1
+FR807,Masculino,Repite contexto,Seriado,Profes,1,Femenino,11,14,15,13,19,6,3,9,1,1,0,3,2,1
+JGFF620,Masculino,Repite contexto,Unisono,Profes,1,Masculino,19,7,10,13,17,6,7,13,3,2,1,4,3,1
+AR428,Femenino,Repite contexto,Seriado,Profes,1,Masculino,8,10,9,19,20,0,10,10,0,0,0,2,1,1
+SMP736,Femenino,Repite contexto,Unisono,Profes,1,Femenino,16,12,18,19,20,1,0,1,0,0,0,2,2,0
+OO790,Femenino,Repite contexto,Seriado,IIPSI,1,Femenino,14,14,16,16,17,2,1,3,3,2,1,5,3,2
+SA491,Femenino,Repite contexto,Seriado,IIPSI,1,Femenino,15,19,20,20,20,0,0,0,0,0,0,0,0,0
+JA771,Femenino,Repite contexto,Unisono,IIPSI,1,Masculino,15,11,17,20,16,0,3,3,4,0,4,0,0,0
+LF979,Masculino,No repite contexto ,Seriado,Profes,1,Masculino,12,14,14,18,18,2,2,4,2,1,1,4,4,0
+IF849,Masculino,No repite contexto ,Unisono,Profes,1,Femenino,18,16,12,9,18,7,5,12,2,1,1,7,3,4
+MA972,Masculino,No repite contexto ,Unisono,IIPSI,1,Femenino,17,11,15,16,20,1,2,3,0,0,0,6,3,3
+RF394,Femenino,No repite contexto ,Seriado,Profes,1,Masculino,9,14,19,19,20,0,0,0,0,0,0,2,1,1
+NFM472,Femenino,No repite contexto ,Unisono,Profes,1,Masculino,10,5,16,18,17,0,2,2,3,2,1,4,2,2
+AG419,Femenino,No repite contexto ,Seriado,IIPSI,1,Masculino,11,12,17,18,19,2,0,2,1,1,0,3,3,0
+RG361,Femenino,No repite contexto ,Unisono,IIPSI,1,Femenino,16,13,17,9,20,3,1,4,0,0,0,10,2,8
