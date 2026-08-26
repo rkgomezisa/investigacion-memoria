@@ -1,13 +1,16 @@
 # ==============================================================================
 # SCRIPT DE PLANIFICACIÓN DE EXPERIMENTO
 # Experimento: Alfonso-2
+nombre_experimento <- "Alfonso_2"
 # ==============================================================================
 
 # 1. Instalar y cargar librerías necesarias
 if (!require("dplyr")) install.packages("dplyr")
 if (!require("glue")) install.packages("glue")
+if (!require("here")) install.packages("here")
 library(dplyr)
 library(glue)
+library(here)
 
 # 2. Definición de Grupos Experimentales
 grupos <- c(
@@ -73,7 +76,6 @@ matriz_final <- matriz_ordenada[, c(
 )]
 
 # 7. Exportar el CSV
-nombre_matriz <- "Matriz_Experimental_Alfonso_2"
-nombre_archivo <- glue("{nombre_matriz}.csv")
-write.csv(matriz_final, nombre_archivo, row.names = FALSE)
+nombre_archivo <- glue("Matriz_Experimental_{nombre_experimento}.csv")
+write.csv(matriz_final, file = here::here(nombre_experimento, nombre_archivo), row.names = FALSE)
 cat(glue("\n¡Matriz generada y ordenada con éxito! Se guardó como {nombre_archivo}\n"))
