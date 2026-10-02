@@ -12,15 +12,25 @@
 # En RStudio: Session > Set Working Directory > To Source File Location
 # Paquetes: dplyr, tidyr, ggplot2, glmmTMB, emmeans, pwr
 # ==============================================================================
-install.packages(c("Matrix", "TMB"), type = "source")
 
-suppressPackageStartupMessages({ library(dplyr); library(tidyr); library(ggplot2)
-  library(glmmTMB); library(emmeans); library(pwr) })
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("ggplot2")
+install.packages("glmmTMB")
+install.packages("emmeans")
+install.packages("pwr")
 
-excluir_inconsistentes <- FALSE   # TRUE = sacar filas cuya matriz no suma 20 por origen
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(glmmTMB)
+library(emmeans)
+library(pwr)
+
+excluir_inconsistentes <- TRUE   # TRUE = sacar filas cuya matriz no suma 20 por origen
 
 # ---- 1. Carga y chequeos ----------------------------------------------------
-d <- read.csv("exp2_g1.csv") |>
+d <- read.csv("Alfonso_2/semana 1/exp2_g1.csv") |>
   filter(!is.na(l1_l1)) |>                                   # agendados sin datos
   mutate(sala = factor(sala, levels = c("ipsii", "profes", "box")),
          sexo = factor(sexo, levels = c("F", "M")),
